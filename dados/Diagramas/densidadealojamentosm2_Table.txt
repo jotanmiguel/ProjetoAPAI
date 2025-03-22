@@ -1,0 +1,11 @@
+densidadealojamentosm2.json IndicadorCod     Yes        String    Unique identifier for the indicator.
+                         IndicadorDsg        Yes        String    Description of the indicator (e.g., "Densidade de alojamentos (N.º/ km²)").
+                         MetaInfUrl          No         String    URL for metadata information.
+                         DataExtracao        Yes        String    Timestamp of data extraction (e.g., "2025-03-18T16:02:16.973Z").
+                         DataUltimoAtualizacao Yes      String    Date of the last update (e.g., "2024-03-19").
+                         UltimoPref          Yes        String    Reference period for the data (e.g., "2021").
+                         Dados               Yes        Object    Contains the actual data for each year.
+                         geocod              Yes        String    Geographical code for the region (e.g., "070513").
+                         geodsg              Yes        String    Geographical description or name of the region (e.g., "Torre de Coelheiros").
+                         ind_string          Yes        String    Housing density as a string (e.g., "2,1").
+                         valor               Yes        Float     Housing density as a numeric value (e.g., 2.1). Must be non-negative.

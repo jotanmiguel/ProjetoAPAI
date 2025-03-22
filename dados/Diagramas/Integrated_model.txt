@@ -1,0 +1,35 @@
++-------------------+       +-------------------+       +-------------------+
+|   Indicator       |       |   Region          |       |   HousingDensity  |
+|-------------------|       |-------------------|       |-------------------|
+| IndicadorCod (PK) |<------| geocod (PK)       |<------| geocod (FK)       |
+| IndicadorDsg      |       | geodsg            |       | IndicadorCod (FK) |
+| MetaInfUrl        |       +-------------------+       | ind_string        |
+| DataExtracao      |                                   | valor             |
+| DataUltimoAtualizacao|                                +-------------------+
+| UltimoPref        |
++-------------------+
+
++-------------------+       +-------------------+
+| PopulationDensity |       |   RentalPrices    |
+|-------------------|       |-------------------|
+| geocod (FK)       |<------| geocod (FK)       |
+| IndicadorCod (FK) |       | IndicadorCod (FK) |
+| ind_string        |       | ind_string        |
+| valor             |       | valor             |
++-------------------+       | sinal_conv        |
+                            | sinal_conv_desc   |
+                            +-------------------+
+
++-------------------+
+| PropertyListings  |
+|-------------------|
+| ListingID (PK)    |
+| Price             |
+| District          |
+| City              |
+| Town              |
+| Bedrooms          |
+| Area              |
+| HasPool           |
+| geocod (FK)       |
++-------------------+
