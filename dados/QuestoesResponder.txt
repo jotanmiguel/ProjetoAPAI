@@ -7,3 +7,5 @@ preço rendas vs densidade de alojamentos
 desidade popupolacional vs preço rendas (Trocar por densidade alojamentos?)
 
 desidade popupolacional vs preço casas (Trocar por densidade alojamentos?)
+
+densidade listagens vs densidade popupolacional (perceber se as zonas mais populadas têm mais listagens?)
