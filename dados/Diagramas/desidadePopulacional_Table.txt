@@ -3,12 +3,10 @@ Dataset Attributes Characterization for densidadePopulacional.json
 | Attribute               | Relevant? | Type       | Constraints/Rules                                                                 |
 |-------------------------|-----------|------------|----------------------------------------------------------------------------------|
 | IndicadorCod            | Yes       | String     | Unique identifier for the indicator (e.g., "0008337"). Not Null.                 |
-| IndicadorDsg            | Yes       | String     | Description of the indicator (e.g., "Densidade populacional (N.º/ km²)"). Not Null.|
-| MetaInfUrl              | No        | String     | URL for metadata. Optional, not directly relevant for analysis.                  |
+| IndicadorDsg            | Yes       | String     | Description of the indicator (e.g., "Densidade populacional (N.º/ km²)"). Not Null.|                 |
 | DataExtracao            | Yes       | DateTime   | Date and time when the data was extracted. Not Null.                             |
 | DataUltimoAtualizacao   | Yes       | Date       | Date when the data was last updated. Not Null.                                   |
 | UltimoPref              | Yes       | Integer    | Year of the data (e.g., 2022). Not Null, must be a valid year.                   |
-| Dados                   | Yes       | Nested JSON| Contains the actual data for each region. Not Null.                              |
 | geocod                  | Yes       | String     | Unique identifier for the region (e.g., "1500802"). Not Null.                    |
 | geodsg                  | Yes       | String     | Name of the region (e.g., "Alcoutim"). Not Null.                                 |
 | ind_string              | Yes       | String     | Population density as a string (e.g., "4,3"). Optional, can be derived from `valor`.|

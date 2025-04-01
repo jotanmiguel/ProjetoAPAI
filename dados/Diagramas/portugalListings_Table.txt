@@ -5,7 +5,5 @@ Table: Characterization of Dataset Attributes
 | Price           | Yes       | Numeric (Float)| Must be a positive value (e.g., > 0). Represents the price of the property.        |
 | District        | Yes       | Categorical    | Must be a valid district in Portugal. No null values allowed.                     |
 | City            | Yes       | Categorical    | Must be a valid city within the specified district. No null values allowed.       |
-| Town            | Yes       | Categorical    | Must be a valid town within the specified city. No null values allowed.           |
-| Bedrooms        | Yes       | Numeric (Int)  | Must be a positive integer (e.g., 1, 2, 3, ...).                                  |
-| Area            | Yes       | Numeric (Float)| Must be a positive value (e.g., > 0). Represents the area in square meters.       |
-| HasPool         | Maybe     | Boolean        | Must be either True/False or 1/0.                                                |
+| Town            | Yes       | Categorical    | Must be a valid town within the specified city. No null values allowed.           |           |
+
