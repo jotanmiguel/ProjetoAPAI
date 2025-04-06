@@ -1,432 +1,309 @@
-geocod,geodsg,RentValue
-11D0914,Vila Nova de Foz Côa,2.08
-11E0410,Vila Flor,2.29
-1960913,Trancoso,2.41
-1960501,Belmonte,2.61
-11C1302,Baião,2.63
-1C31204,Campo Maior,2.72
-1C40703,Borba,2.77
-11E0408,Mogadouro,2.78
-1941817,Sátão,2.78
-11E0407,Mirandela,2.83
-1960906,Gouveia,2.89
-11B1712,Valpaços,2.91
-11E0405,Macedo de Cavaleiros,2.94
-11E,Terras de Trás-os-Montes,2.98
-1920611,Oliveira do Hospital,3.02
-11D1807,Moimenta da Beira,3.08
-11C1813,Resende,3.09
-1190304,Cabeceiras de Basto,3.1
-1931002,Alvaiázere,3.1
-1921808,Mortágua,3.11
-11C1303,Felgueiras,3.14
-1960912,Seia,3.17
-11E0402,Bragança,3.19
-1960911,Sabugal,3.22
-1111605,Paredes de Coura,3.24
-11B1713,Vila Pouca de Aguiar,3.31
-1111606,Ponte da Barca,3.33
-1910117,Sever do Vouga,3.37
-11A131405,Aves,3.38
-11C0305,Celorico de Basto,3.38
-1920617,Vila Nova de Poiares,3.38
-1941809,Nelas,3.38
-11D1805,Lamego,3.4
-1920601,Arganil,3.4
-1920616,Tábua,3.4
-1941802,Carregal do Sal,3.4
-11C1804,Cinfães,3.41
-11A011303,Fajões,3.46
-1931003,Ansião,3.5
-1941803,Castro Daire,3.5
-1C31214,Portalegre,3.51
-1920613,Penacova,3.52
-1C40704,Estremoz,3.55
-1D31407,Chamusca,3.57
-1C40714,Vila Viçosa,3.58
-1941824,Vouzela,3.6
-1C3,Alto Alentejo,3.61
-1190307,Fafe,3.62
-11C0106,Castelo de Paiva,3.62
-1111610,Vila Nova de Cerveira,3.63
-11C1305,Lousada,3.65
-1111603,Melgaço,3.67
-11C1307,Marco de Canaveses,3.71
-11C,Tâmega e Sousa,3.72
-1941806,Mangualde,3.72
-1D21402,Alcanena,3.72
-11A011304,Loureiro,3.75
-196,Beiras e Serra da Estrela,3.75
-11D,Douro,3.77
-195,Beira Baixa,3.78
-1920608,Mira,3.79
-1920615,Soure,3.8
-1C40710,Redondo,3.8
-1190309,Póvoa de Lanhoso,3.81
-11A010934,"União das freguesias de Lobão, Gião, Louredo e Guisande",3.81
-1941814,Santa Comba Dão,3.81
-2004205,Ribeira Grande,3.83
-11C1301,Amarante,3.88
-1190311,Vieira do Minho,3.91
-11A131013,Lordelo,3.91
-1C20208,Ferreira do Alentejo,3.91
-1950509,Sertã,3.93
-1111601,Arcos de Valdevez,3.98
-1950502,Castelo Branco,4.0
-1960907,Guarda,4.01
-1C20210,Moura,4.06
-2004502,Velas,4.06
-2004701,Horta,4.07
-11A011910,"União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",4.08
-1C31207,Elvas,4.11
-1C31213,Ponte de Sor,4.11
-11B,Alto Tâmega e Barroso,4.12
-11D1708,Peso da Régua,4.12
-1120301,Amares,4.13
-1D31414,Rio Maior,4.13
-1941810,Oliveira de Frades,4.14
-1960504,Fundão,4.14
-1C40711,Reguengos de Monsaraz,4.16
-11C1309,Paços de Ferreira,4.17
-1920607,Lousã,4.17
-1920602,Cantanhede,4.18
-1931016,Porto de Mós,4.19
-1920609,Miranda do Corvo,4.22
-1920111,Mealhada,4.25
-1D21420,Vila Nova da Barquinha,4.28
-1500809,Monchique,4.29
-1111608,Valença,4.3
-1D21401,Abrantes,4.3
-11A1314,Santo Tirso,4.31
-11C1311,Penafiel,4.34
-11A0113,Oliveira de Azeméis,4.35
-11A010901,Argoncilhe,4.36
-1190314,Vizela,4.37
-1941821,Tondela,4.39
-1960503,Covilhã,4.43
-1D11005,Bombarral,4.44
-1D21411,Ferreira do Zêzere,4.45
-1920610,Montemor-o-Velho,4.46
-2004301,Angra do Heroísmo,4.49
-11B1703,Chaves,4.51
-1910103,Anadia,4.51
-1931004,Batalha,4.53
-1111604,Monção,4.55
-1D11104,Cadaval,4.56
-2004201,Lagoa (R.A.A.),4.56
-1D31415,Salvaterra de Magos,4.58
-11A0104,Arouca,4.59
-119,Ave,4.61
-11A011321,"União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",4.62
-1C40712,Vendas Novas,4.63
-11A010933,"União das freguesias de Canedo, Vale e Vila Maior",4.64
-1C,Alentejo,4.66
-1C40706,Montemor-o-Novo,4.67
-11A010916,Mozelos,4.68
-11D1714,Vila Real,4.68
-194,Viseu Dão Lafões,4.7
-1C2,Baixo Alentejo,4.7
-1120313,Vila Verde,4.71
-11A010907,Fiães,4.73
-1111602,Caminha,4.74
-11A1310,Paredes,4.75
-1120302,Barcelos,4.76
-1910114,Oliveira do Bairro,4.77
-1931015,Pombal,4.77
-1910108,Estarreja,4.81
-1C4,Alentejo Central,4.82
-2,Região Autónoma dos Açores,4.83
-20,Região Autónoma dos Açores,4.83
-200,Região Autónoma dos Açores,4.83
-11A011319,Vila de Cucujães,4.85
-1931010,Marinha Grande,4.88
-1C40702,Arraiolos,4.88
-1111607,Ponte de Lima,4.93
-1190308,Guimarães,4.95
-1D21419,Torres Novas,4.96
-1D2,Médio Tejo,4.97
-1D31409,Coruche,4.97
-11A0119,Vale de Cambra,5.0
-11A131729,"União das freguesias de Sandim, Olival, Lever e Crestuma",5.0
-1910102,Albergaria-a-Velha,5.0
-1C20206,Castro Verde,5.0
-1D31406,Cartaxo,5.0
-1190312,Vila Nova de Famalicão,5.08
-11A0109,Santa Maria da Feira,5.08
-11A011320,União das freguesias de Nogueira do Cravo e Pindelo,5.08
-19,Centro,5.08
-1941816,São Pedro do Sul,5.08
-1910101,Águeda,5.09
-1C20201,Aljustrel,5.11
-1910112,Murtosa,5.12
-1C10211,Odemira,5.12
-1D3,Lezíria do Tejo,5.14
-11A010705,Silvalde,5.15
-11A131011,Gandra,5.15
-11A010913,Lourosa,5.2
-11A010421,União das freguesias de Arouca e Burgo,5.21
-1910118,Vagos,5.21
-1D11112,Sobral de Monte Agraço,5.22
-11A131025,Paredes,5.23
-3003104,Machico,5.23
-11A0116,São João da Madeira,5.26
-11A011601,São João da Madeira,5.26
-1920604,Condeixa-a-Nova,5.27
-1D31403,Almeirim,5.27
-11A010902,Arrifana,5.29
-11A010926,São João de Ver,5.29
-1D11108,Lourinhã,5.29
-193,Região de Leiria,5.3
-111,Alto Minho,5.32
-11A131018,Rebordosa,5.33
-1941823,Viseu,5.33
-1B0151006,Fernão Ferro,5.34
-11A011902,São Pedro de Castelões,5.35
-1D11001,Alcobaça,5.45
-1D21421,Ourém,5.46
-3003101,Calheta (R.A.M.),5.46
-1D,Oeste e Vale do Tejo,5.49
-1D21410,Entroncamento,5.5
-1D21418,Tomar,5.5
-11A131437,"União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães",5.59
-2004302,Vila da Praia da Vitória,5.59
-192,Região de Coimbra,5.62
-11A131506,União das freguesias de Campo e Sobrado,5.63
-1D31416,Santarém,5.63
-1C20205,Beja,5.69
-11A131314,União das freguesias de Aguçadoura e Navais,5.71
-2004203,Ponta Delgada,5.75
-3003102,Câmara de Lobos,5.75
-1910115,Ovar,5.76
-191,Região de Aveiro,5.77
-1C11501,Alcácer do Sal,5.77
-1D31405,Benavente,5.79
-1D31103,Azambuja,5.85
-11A010935,"União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",5.89
-11A131725,União das freguesias de Grijó e Sermonde,5.91
-1A0110708,Lousa,5.92
-1D11014,Peniche,5.95
-11A1318,Trofa,6.0
-1931009,Leiria,6.0
-11A010706,União das freguesias de Anta e Guetim,6.06
-1D11012,Óbidos,6.07
-1D1,Oeste,6.1
-11A131810,União das freguesias de Bougado (São Martinho e Santiago),6.13
-1500812,São Brás de Alportel,6.15
-1A0111123,"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",6.15
-11,Norte,6.25
-1111609,Viana do Castelo,6.31
-11A130413,União das freguesias de Fânzeres e São Pedro da Cova,6.33
-11A131501,Alfena,6.33
-112,Cávado,6.35
-11A130620,Nogueira e Silva Escura,6.37
-1D11006,Caldas da Rainha,6.38
-1D11101,Alenquer,6.39
-11A131602,Árvore,6.44
-11A131731,União das freguesias de Serzedo e Perosinho,6.47
-11A130415,"União das freguesias de Gondomar (São Cosme), Valbom e Jovim",6.5
-1920605,Figueira da Foz,6.61
-1C1,Alentejo Litoral,6.67
-11A131313,"União das freguesias de Aver-o-Mar, Amorim e Terroso",6.69
-1A0110919,"União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário",6.71
-1D11102,Arruda dos Vinhos,6.71
-11A131728,União das freguesias de Pedroso e Seixezelo,6.72
-1120306,Esposende,6.75
-11A1316,Vila do Conde,6.76
-1910110,Ílhavo,6.8
-1D11113,Torres Vedras,6.81
-1C40705,Évora,6.83
-11A131616,Mindelo,6.84
-1C11509,Santiago do Cacém,6.84
-1500810,Olhão,6.85
-1B0150601,Alhos Vedros,6.85
-11A1313,Póvoa de Varzim,6.88
-1500815,Vila do Bispo,6.88
-1A0110911,Milharado,6.9
-11A1304,Gondomar,6.91
-11A0107,Espinho,6.92
-1500803,Aljezur,6.96
-1120303,Braga,6.98
-11A1315,Valongo,7.0
-1920603,Coimbra,7.01
-1A0110920,União das freguesias de Igreja Nova e Cheleiros,7.03
-11A131723,Vilar de Andorinho,7.04
-11A130618,Castêlo da Maia,7.06
-11A131505,Valongo,7.06
-11A130813,"União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",7.08
-11A131628,Vila do Conde,7.13
-1B0150313,União das freguesias de Caparica e Trafaria,7.13
-11A131703,Canelas,7.14
-1A0110922,União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés,7.15
-1A0110702,Bucelas,7.16
-1A0111127,União das freguesias de São João das Lampas e Terrugem,7.17
-11A131701,Arcozelo,7.2
-11A131702,Avintes,7.21
-1B0150802,Palmela,7.21
-PT,Portugal,7.21
-1B01508,Palmela,7.22
-1,Continente,7.24
-1500805,Faro,7.25
-11A131717,São Félix da Marinha,7.27
-11A131315,"União das freguesias da Póvoa de Varzim, Beiriz e Argivai",7.29
-1B0150803,Pinhal Novo,7.29
-11A130601,Águas Santas,7.34
-1500813,Silves,7.34
-1500806,Lagoa,7.35
-11A131503,Ermesinde,7.37
-1C11505,Grândola,7.41
-1D11011,Nazaré,7.48
-1500804,Castro Marim,7.55
-1910105,Aveiro,7.61
-1B0151103,Quinta do Conde,7.63
-11A130408,Rio Tinto,7.64
-11A130617,Pedrouços,7.68
-11A1306,Maia,7.69
-11A130412,Baguim do Monte (Rio Tinto),7.74
-1B0150407,Santo António da Charneca,7.82
-11A131726,União das freguesias de Gulpilhares e Valadares,7.84
-1B0150603,Moita,7.87
-11A131709,Madalena,7.89
-11A130609,Moreira,7.9
-11A010702,Espinho,7.91
-1A0111412,"União das freguesias de Alhandra, São João dos Montes e Calhandriz",7.93
-1B0151101,Sesimbra (Castelo),7.94
-1B01511,Sesimbra,7.97
-11A,Área Metropolitana do Porto,7.98
-3003108,Santa Cruz,8.04
-1A0110729,União das freguesias de Santo Antão e São Julião do Tojal,8.05
-1A0111115,Casal de Cambra,8.05
-1B01506,Moita,8.05
-1B0150804,Quinta do Anjo,8.06
-1A0110921,União das freguesias de Malveira e São Miguel de Alcainça,8.07
-1A0110909,Mafra,8.12
-1B0150410,União das freguesias de Barreiro e Lavradio,8.14
-1A0110731,"União das freguesias de Camarate, Unhos e Apelação",8.18
-1A0111105,Colares,8.24
-11A130811,"União das freguesias de Custóias, Leça do Balio e Guifões",8.31
-15,Algarve,8.33
-150,Algarve,8.33
-3,Região Autónoma da Madeira,8.33
-30,Região Autónoma da Madeira,8.33
-300,Região Autónoma da Madeira,8.33
-1B0151209,União das freguesias de Azeitão (São Lourenço e São Simão),8.34
-1B0150607,União das freguesias de Baixa da Banheira e Vale da Amoreira,8.35
-1B0151002,Amora,8.36
-1A01109,Mafra,8.37
-1A0111408,Vialonga,8.37
-1B01507,Montijo,8.44
-11A1317,Vila Nova de Gaia,8.51
-11A130619,Cidade da Maia,8.52
-1B01502,Alcochete,8.52
-1B0151205,Setúbal (São Sebastião),8.52
-1A0111409,Vila Franca de Xira,8.6
-1500816,Vila Real de Santo António,8.63
-1B0150710,União das freguesias de Montijo e Afonsoeiro,8.66
-1A0110728,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",8.69
-11A131712,Oliveira do Douro,8.73
-1A0111610,União das freguesias de Ramada e Caneças,8.77
-1A0111414,União das freguesias de Castanheira do Ribatejo e Cachoeiras,8.78
-1B01510,Seixal,8.78
-1A0111102,Algueirão-Mem Martins,8.79
-1500807,Lagos,8.87
-1B,Península de Setúbal,8.92
-1B0,Península de Setúbal,8.92
-11A131727,União das freguesias de Mafamude e Vilar do Paraíso,8.93
-1A01114,Vila Franca de Xira,8.94
-1B01512,Setúbal,8.95
-11A131613,Labruge,8.98
-1A0111415,União das freguesias de Póvoa de Santa Iria e Forte da Casa,8.99
-1500814,Tavira,9.0
-1B0150201,Alcochete,9.0
-1B01504,Barreiro,9.01
-1500801,Albufeira,9.06
-1B0151102,Sesimbra (Santiago),9.09
-1A0111514,Encosta do Sol,9.11
-1B0151005,Corroios,9.12
-1B0151007,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",9.15
-1C11513,Sines,9.17
-1500811,Portimão,9.25
-11A131704,Canidelo,9.28
-1A0110707,Loures,9.32
-1A01111,Sintra,9.32
-1A0111108,Rio de Mouro,9.32
-1A0111608,União das freguesias de Pontinha e Famões,9.38
-1500808,Loulé,9.42
-1B0150409,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",9.56
-1B0151210,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",9.58
-1A0111125,União das freguesias de Massamá e Monte Abraão,9.59
-1A0111413,União das freguesias de Alverca do Ribatejo e Sobralinho,9.62
-1A01107,Loures,9.68
-1A0111122,União das freguesias de Agualva e Mira-Sintra,9.7
-1A0111128,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",9.76
-3003103,Funchal,9.78
-1A0111609,União das freguesias de Póvoa de Santo Adrião e Olival Basto,9.87
-1A0111516,Mina de Água,9.89
-1B0150315,União das freguesias de Laranjeiro e Feijó,9.91
-1A0111126,União das freguesias de Queluz e Belas,9.96
-11A1308,Matosinhos,10.0
-1A0110730,União das freguesias de Santo António dos Cavaleiros e Frielas,10.0
-1A0111124,União das freguesias do Cacém e São Marcos,10.0
-1B0150314,União das freguesias de Charneca de Caparica e Sobreda,10.0
-1A01116,Odivelas,10.02
-11A131203,Campanhã,10.1
-11A131730,União das freguesias de Santa Marinha e São Pedro da Afurada,10.2
-11A130814,União das freguesias de São Mamede de Infesta e Senhora da Hora,10.35
-1A0110664,Santa Clara,10.37
-1A0111512,Alfragide,10.39
-1A0111002,Barcarena,10.4
-1A0111009,Porto Salvo,10.43
-1B01503,Almada,10.67
-1A0110501,Alcabideche,10.71
-1A01115,Amadora,10.72
-1B0150312,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",10.79
-1A0111515,Falagueira-Venda Nova,10.84
-11A131211,Ramalde,10.91
-11A131210,Paranhos,10.98
-1A0111603,Odivelas,11.11
-1A0110506,São Domingos de Rana,11.32
-1A0111517,Venteira,11.55
-11A130812,União das freguesias de Matosinhos e Leça da Palmeira,11.62
-1A0110726,União das freguesias de Moscavide e Portela,11.64
-11A1312,Porto,11.72
-1A0111513,Águas Livres,11.74
-1A0110906,Ericeira,11.76
-1A0110727,União das freguesias de Sacavém e Prior Velho,11.86
-1A,Grande Lisboa,11.93
-1A0,Grande Lisboa,11.93
-11A131202,Bonfim,11.95
-1A0111013,União das freguesias de Carnaxide e Queijas,12.04
-11A131217,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",12.56
-1A0111012,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",12.66
-11A131218,União das freguesias de Lordelo do Ouro e Massarelos,12.78
-1A01110,Oeiras,13.0
-1B0150303,Costa da Caparica,13.4
-1A0110607,Beato,13.64
-1A0110608,Benfica,13.64
-11A131216,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",13.78
-1A0110633,Olivais,13.79
-1A0110655,Areeiro,13.81
-1A0110618,Lumiar,13.88
-1A0110663,Penha de França,14.0
-1A01105,Cascais,14.22
-1A0110656,Arroios,14.24
-1A0110602,Alcântara,14.38
-1A0110621,Marvila,14.43
-1A0111014,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",14.43
-1A0110654,Alvalade,14.58
-1A0110611,Carnide,14.94
-1A0110601,Ajuda,15.0
-1A0110639,São Domingos de Benfica,15.15
-1A0110507,União das freguesias de Carcavelos e Parede,15.19
-1A01106,Lisboa,15.22
-1A0110610,Campolide,15.85
-1A0110667,São Vicente,16.25
-1A0110657,Avenidas Novas,16.29
-1A0110508,União das freguesias de Cascais e Estoril,16.32
-1A0110658,Belém,16.35
-1A0110660,Estrela,16.92
-1A0110659,Campo de Ourique,17.81
-1A0110665,Santa Maria Maior,17.93
-1A0110662,Parque das Nações,18.45
-1A0110661,Misericórdia,18.94
-1A0110666,Santo António,19.44
+MunicipalityCode,RentValueMean,Municipality,Municipality_norm
+0101,5.09,ÁGUEDA,agueda
+0102,5.0,ALBERGARIA-A-VELHA,albergaria-a-velha
+0103,4.51,ANADIA,anadia
+0104,4.59,AROUCA,arouca
+0105,7.61,AVEIRO,aveiro
+0106,3.62,CASTELO DE PAIVA,castelo de paiva
+0107,6.92,ESPINHO,espinho
+0108,4.81,ESTARREJA,estarreja
+0109,5.08,SANTA MARIA DA FEIRA,santa maria da feira
+0110,6.8,ÍLHAVO,ilhavo
+0111,4.25,MEALHADA,mealhada
+0112,5.12,MURTOSA,murtosa
+0113,4.35,OLIVEIRA DE AZEMÉIS,oliveira de azemeis
+0114,4.77,OLIVEIRA DO BAIRRO,oliveira do bairro
+0115,5.76,OVAR,ovar
+0116,5.26,SÃO JOÃO DA MADEIRA,sao joao da madeira
+0117,3.37,SEVER DO VOUGA,sever do vouga
+0118,5.21,VAGOS,vagos
+0119,5.0,VALE DE CAMBRA,vale de cambra
+0201,7.055,ALJUSTREL,aljustrel
+0202,,ALMODÔVAR,almodovar
+0203,,ALVITO,alvito
+0204,,BARRANCOS,barrancos
+0205,5.69,BEJA,beja
+0206,5.0,CASTRO VERDE,castro verde
+0207,,CUBA,cuba
+0208,3.91,FERREIRA DO ALENTEJO,ferreira do alentejo
+0209,,MÉRTOLA,mertola
+0210,4.06,MOURA,moura
+0211,5.12,ODEMIRA,odemira
+0212,,OURIQUE,ourique
+0213,,SERPA,serpa
+0214,,VIDIGUEIRA,vidigueira
+0301,4.13,AMARES,amares
+0302,4.76,BARCELOS,barcelos
+0303,10.190000000000001,BRAGA,braga
+0304,3.1,CABECEIRAS DE BASTO,cabeceiras de basto
+0305,3.38,CELORICO DE BASTO,celorico de basto
+0306,6.75,ESPOSENDE,esposende
+0307,3.62,FAFE,fafe
+0308,4.95,GUIMARÃES,guimaraes
+0309,3.81,PÓVOA DE LANHOSO,povoa de lanhoso
+0310,,TERRAS DE BOURO,terras de bouro
+0311,3.91,VIEIRA DO MINHO,vieira do minho
+0312,7.935,VILA NOVA DE FAMALICÃO,vila nova de famalicao
+0313,5.92,VILA VERDE,vila verde
+0314,7.1850000000000005,VIZELA,vizela
+0401,,ALFÂNDEGA DA FÉ,alfandega da fe
+0402,3.19,BRAGANÇA,braganca
+0403,,CARRAZEDA DE ANSIÃES,carrazeda de ansiaes
+0404,,FREIXO DE ESPADA À CINTA,freixo de espada a cinta
+0405,2.94,MACEDO DE CAVALEIROS,macedo de cavaleiros
+0406,,MIRANDA DO DOURO,miranda do douro
+0407,5.325,MIRANDELA,mirandela
+0408,5.21,MOGADOURO,mogadouro
+0409,9.56,TORRE DE MONCORVO,torre de moncorvo
+0410,5.215,VILA FLOR,vila flor
+0411,,VIMIOSO,vimioso
+0412,7.74,VINHAIS,vinhais
+0501,6.66,BELMONTE,belmonte
+0502,4.0,CASTELO BRANCO,castelo branco
+0503,4.43,COVILHÃ,covilha
+0504,4.14,FUNDÃO,fundao
+0505,,IDANHA-A-NOVA,idanha-a-nova
+0506,11.32,OLEIROS,oleiros
+0507,15.19,PENAMACOR,penamacor
+0508,16.32,PROENÇA-A-NOVA,proenca-a-nova
+0509,3.93,SERTÃ,serta
+0510,,VILA DE REI,vila de rei
+0511,,VILA VELHA DE RÓDÃO,vila velha de rodao
+0601,8.1475,ARGANIL,arganil
+0602,9.280000000000001,CANTANHEDE,cantanhede
+0603,7.44,COIMBRA,coimbra
+0604,5.27,CONDEIXA-A-NOVA,condeixa-a-nova
+0605,6.61,FIGUEIRA DA FOZ,figueira da foz
+0606,,GÓIS,gois
+0607,8.72,LOUSÃ,lousa
+0608,8.715,MIRA,mira
+0609,6.0600000000000005,MIRANDA DO CORVO,miranda do corvo
+0610,10.155,MONTEMOR-O-VELHO,montemor-o-velho
+0611,8.98,OLIVEIRA DO HOSPITAL,oliveira do hospital
+0612,,PAMPILHOSA DA SERRA,pampilhosa da serra
+0613,3.52,PENACOVA,penacova
+0614,,PENELA,penela
+0615,3.8,SOURE,soure
+0616,3.4,TÁBUA,tabua
+0617,5.529999999999999,VILA NOVA DE POIARES,vila nova de poiares
+0701,,ALANDROAL,alandroal
+0702,6.6499999999999995,ARRAIOLOS,arraiolos
+0703,2.77,BORBA,borba
+0704,3.5499999999999994,ESTREMOZ,estremoz
+0705,5.989999999999999,ÉVORA,evora
+0706,5.365,MONTEMOR-O-NOVO,montemor-o-novo
+0707,9.32,MORA,mora
+0708,5.92,MOURÃO,mourao
+0709,,PORTEL,portel
+0710,6.23,REDONDO,redondo
+0711,4.16,REGUENGOS DE MONSARAZ,reguengos de monsaraz
+0712,4.63,VENDAS NOVAS,vendas novas
+0713,,VIANA DO ALENTEJO,viana do alentejo
+0714,3.58,VILA VIÇOSA,vila vicosa
+0801,9.06,ALBUFEIRA,albufeira
+0802,7.21,ALCOUTIM,alcoutim
+0803,7.125,ALJEZUR,aljezur
+0804,7.805,CASTRO MARIM,castro marim
+0805,7.25,FARO,faro
+0806,7.35,LAGOA,lagoa
+0807,8.87,LAGOS,lagos
+0808,9.42,LOULÉ,loule
+0809,4.29,MONCHIQUE,monchique
+0810,6.85,OLHÃO,olhao
+0811,8.780000000000001,PORTIMÃO,portimao
+0812,8.885,SÃO BRÁS DE ALPORTEL,sao bras de alportel
+0813,7.21,SILVES,silves
+0814,9.675,TAVIRA,tavira
+0815,6.88,VILA DO BISPO,vila do bispo
+0816,8.63,VILA REAL DE SANTO ANTÓNIO,vila real de santo antonio
+0901,4.36,AGUIAR DA BEIRA,aguiar da beira
+0902,5.29,ALMEIDA,almeida
+0903,,CELORICO DA BEIRA,celorico da beira
+0904,,FIGUEIRA DE CASTELO RODRIGO,figueira de castelo rodrigo
+0905,,FORNOS DE ALGODRES,fornos de algodres
+0906,7.325,GOUVEIA,gouveia
+0907,4.37,GUARDA,guarda
+0908,,MANTEIGAS,manteigas
+0909,8.12,MÊDA,meda
+0910,,PINHEL,pinhel
+0911,5.0600000000000005,SABUGAL,sabugal
+0912,3.17,SEIA,seia
+0913,3.805,TRANCOSO,trancoso
+0914,2.08,VILA NOVA DE FOZ CÔA,vila nova de foz coa
+1001,5.45,ALCOBAÇA,alcobaca
+1002,7.286666666666666,ALVAIÁZERE,alvaiazere
+1003,3.5,ANSIÃO,ansiao
+1004,4.53,BATALHA,batalha
+1005,6.779999999999999,BOMBARRAL,bombarral
+1006,5.859999999999999,CALDAS DA RAINHA,caldas da rainha
+1007,9.15,CASTANHEIRA DE PÊRA,castanheira de pera
+1008,,FIGUEIRÓ DOS VINHOS,figueiro dos vinhos
+1009,8.215,LEIRIA,leiria
+1010,4.88,MARINHA GRANDE,marinha grande
+1011,6.315,NAZARÉ,nazare
+1012,9.365,ÓBIDOS,obidos
+1013,7.974999999999999,PEDRÓGÃO GRANDE,pedrogao grande
+1014,10.19,PENICHE,peniche
+1015,4.77,POMBAL,pombal
+1016,4.19,PORTO DE MÓS,porto de mos
+1101,7.165,ALENQUER,alenquer
+1102,8.196666666666667,ARRUDA DOS VINHOS,arruda dos vinhos
+1103,6.74,AZAMBUJA,azambuja
+1104,4.56,CADAVAL,cadaval
+1105,11.23,CASCAIS,cascais
+1106,15.22,LISBOA,lisboa
+1107,9.68,LOURES,loures
+1108,7.305,LOURINHÃ,lourinha
+1109,8.37,MAFRA,mafra
+1110,13.0,OEIRAS,oeiras
+1111,9.32,SINTRA,sintra
+1112,5.22,SOBRAL DE MONTE AGRAÇO,sobral de monte agraco
+1113,6.81,TORRES VEDRAS,torres vedras
+1114,8.94,VILA FRANCA DE XIRA,vila franca de xira
+1115,9.385000000000002,AMADORA,amadora
+1116,10.02,ODIVELAS,odivelas
+1201,,ALTER DO CHÃO,alter do chao
+1202,11.95,ARRONCHES,arronches
+1203,10.1,AVIS,avis
+1204,2.72,CAMPO MAIOR,campo maior
+1205,8.52,CASTELO DE VIDE,castelo de vide
+1206,,CRATO,crato
+1207,4.11,ELVAS,elvas
+1208,,FRONTEIRA,fronteira
+1209,8.34,GAVIÃO,gaviao
+1210,10.280000000000001,MARVÃO,marvao
+1211,10.91,MONFORTE,monforte
+1212,,NISA,nisa
+1213,4.11,PONTE DE SOR,ponte de sor
+1214,3.51,PORTALEGRE,portalegre
+1215,,SOUSEL,sousel
+1301,3.88,AMARANTE,amarante
+1302,2.63,BAIÃO,baiao
+1303,3.3,FELGUEIRAS,felgueiras
+1304,5.33,GONDOMAR,gondomar
+1305,3.65,LOUSADA,lousada
+1306,7.69,MAIA,maia
+1307,3.71,MARCO DE CANAVESES,marco de canaveses
+1308,10.0,MATOSINHOS,matosinhos
+1309,4.17,PAÇOS DE FERREIRA,pacos de ferreira
+1310,4.75,PAREDES,paredes
+1311,4.34,PENAFIEL,penafiel
+1312,11.72,PORTO,porto
+1313,6.785,PÓVOA DE VARZIM,povoa de varzim
+1314,5.01,SANTO TIRSO,santo tirso
+1315,7.145,VALONGO,valongo
+1316,6.76,VILA DO CONDE,vila do conde
+1317,8.51,VILA NOVA DE GAIA,vila nova de gaia
+1318,6.0,TROFA,trofa
+1401,4.3,ABRANTES,abrantes
+1402,3.72,ALCANENA,alcanena
+1403,5.27,ALMEIRIM,almeirim
+1404,,ALPIARÇA,alpiarca
+1405,4.585,BENAVENTE,benavente
+1406,5.0,CARTAXO,cartaxo
+1407,3.57,CHAMUSCA,chamusca
+1408,8.37,CONSTÂNCIA,constancia
+1409,6.785,CORUCHE,coruche
+1410,5.5,ENTRONCAMENTO,entroncamento
+1411,4.45,FERREIRA DO ZÊZERE,ferreira do zezere
+1412,7.93,GOLEGÃ,golega
+1413,9.62,MAÇÃO,macao
+1414,6.455,RIO MAIOR,rio maior
+1415,6.785,SALVATERRA DE MAGOS,salvaterra de magos
+1416,5.63,SANTARÉM,santarem
+1417,,SARDOAL,sardoal
+1418,5.5,TOMAR,tomar
+1419,4.96,TORRES NOVAS,torres novas
+1420,4.28,VILA NOVA DA BARQUINHA,vila nova da barquinha
+1421,5.46,OURÉM,ourem
+1501,6.05,ALCÁCER DO SAL,alcacer do sal
+1502,8.52,ALCOCHETE,alcochete
+1503,9.02,ALMADA,almada
+1504,9.01,BARREIRO,barreiro
+1505,7.234999999999999,GRÂNDOLA,grandola
+1506,6.84,MOITA,moita
+1507,8.44,MONTIJO,montijo
+1508,7.22,PALMELA,palmela
+1509,6.84,SANTIAGO DO CACÉM,santiago do cacem
+1510,8.78,SEIXAL,seixal
+1511,7.97,SESIMBRA,sesimbra
+1512,9.67,SETÚBAL,setubal
+1513,10.455,SINES,sines
+1601,4.62,ARCOS DE VALDEVEZ,arcos de valdevez
+1602,5.59,CAMINHA,caminha
+1603,7.39,MELGAÇO,melgaco
+1604,4.55,MONÇÃO,moncao
+1605,3.24,PAREDES DE COURA,paredes de coura
+1606,3.33,PONTE DA BARCA,ponte da barca
+1607,4.93,PONTE DE LIMA,ponte de lima
+1608,6.84,VALENÇA,valenca
+1609,8.09,VIANA DO CASTELO,viana do castelo
+1610,6.199999999999999,VILA NOVA DE CERVEIRA,vila nova de cerveira
+1701,7.2,ALIJÓ,alijo
+1702,7.21,BOTICAS,boticas
+1703,5.824999999999999,CHAVES,chaves
+1704,9.28,MESÃO FRIO,mesao frio
+1705,,MONDIM DE BASTO,mondim de basto
+1706,,MONTALEGRE,montalegre
+1707,,MURÇA,murca
+1708,4.12,PESO DA RÉGUA,peso da regua
+1709,7.89,RIBEIRA DE PENA,ribeira de pena
+1710,,SABROSA,sabrosa
+1711,,SANTA MARTA DE PENAGUIÃO,santa marta de penaguiao
+1712,5.82,VALPAÇOS,valpacos
+1713,3.31,VILA POUCA DE AGUIAR,vila pouca de aguiar
+1714,4.68,VILA REAL,vila real
+1801,,ARMAMAR,armamar
+1802,3.4,CARREGAL DO SAL,carregal do sal
+1803,3.5,CASTRO DAIRE,castro daire
+1804,3.41,CINFÃES,cinfaes
+1805,3.4,LAMEGO,lamego
+1806,3.72,MANGUALDE,mangualde
+1807,3.08,MOIMENTA DA BEIRA,moimenta da beira
+1808,3.11,MORTÁGUA,mortagua
+1809,3.38,NELAS,nelas
+1810,5.135,OLIVEIRA DE FRADES,oliveira de frades
+1811,,PENALVA DO CASTELO,penalva do castelo
+1812,,PENEDONO,penedono
+1813,3.09,RESENDE,resende
+1814,3.81,SANTA COMBA DÃO,santa comba dao
+1815,,SÃO JOÃO DA PESQUEIRA,sao joao da pesqueira
+1816,5.08,SÃO PEDRO DO SUL,sao pedro do sul
+1817,2.78,SÁTÃO,satao
+1818,,SERNANCELHE,sernancelhe
+1819,,TABUAÇO,tabuaco
+1820,,TAROUCA,tarouca
+1821,4.39,TONDELA,tondela
+1822,,VILA NOVA DE PAIVA,vila nova de paiva
+1823,5.33,VISEU,viseu
+1824,3.6,VOUZELA,vouzela
+3101,5.46,CALHETA,calheta
+3102,5.75,CÂMARA DE LOBOS,camara de lobos
+3103,9.78,FUNCHAL,funchal
+3104,5.23,MACHICO,machico
+3105,,PONTA DO SOL,ponta do sol
+3106,,PORTO MONIZ,porto moniz
+3107,,RIBEIRA BRAVA,ribeira brava
+3108,8.04,SANTA CRUZ,santa cruz
+3109,,SANTANA,santana
+3110,,SÃO VICENTE,sao vicente
+3201,,PORTO SANTO,porto santo
+4101,,VILA DO PORTO,vila do porto
+4201,4.56,LAGOA,lagoa
+4202,,NORDESTE,nordeste
+4203,5.75,PONTA DELGADA,ponta delgada
+4204,,POVOAÇÃO,povoacao
+4205,3.83,RIBEIRA GRANDE,ribeira grande
+4206,,VILA FRANCA DO CAMPO,vila franca do campo
+4301,4.49,ANGRA DO HEROÍSMO,angra do heroismo
+4302,5.59,PRAIA DA VITÓRIA,praia da vitoria
+4401,,SANTA CRUZ DA GRACIOSA,santa cruz da graciosa
+4501,,CALHETA DE SÃO JORGE,calheta de sao jorge
+4502,4.06,VELAS,velas
+4601,,LAJES DO PICO,lajes do pico
+4602,,MADALENA,madalena
+4603,,SÃO ROQUE DO PICO,sao roque do pico
+4701,4.07,HORTA,horta
+4801,,LAJES DAS FLORES,lajes das flores
+4802,,SANTA CRUZ DAS FLORES,santa cruz das flores
+4901,,CORVO,corvo
